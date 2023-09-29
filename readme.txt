@@ -1,0 +1,1 @@
+This theme is fully responsive and seo friendly.

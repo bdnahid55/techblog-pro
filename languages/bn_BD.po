@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: techblog-pro 1.0\n"
+"POT-Creation-Date: 2017-11-11 01:59+0600\n"
+"PO-Revision-Date: 2017-11-11 02:08+0600\n"
+"Last-Translator: \n"
+"Language-Team: techblog-pro email- bdnahid55@gmail.com\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Search.php:27
+msgid "Nothing Found"
+msgstr "কিছুই পাওয়া যায়নি"
+
+#: Search.php:32
+msgid ""
+"Sorry, but nothing matched your search words. Please try again with some "
+"different keywords."
+msgstr ""
+"দুঃখিত, কিন্তু কিছুই আপনার খোঁজার সাথে  মিলেছে না. কিছু ভিন্ন কীওয়ার্ড দিয়ে আবার "
+"চেষ্টা করুন."
+
+#: comments.php:38
+msgid "Comment navigation"
+msgstr "মন্তব্য ন্যাভিগেশন"
+
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr "পুরাতন মন্তব্য"
+
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr "নতুন মন্তব্যগুলো &rarr;"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "মন্তব্য বন্ধ."
+
+#: content-search.php:14 content.php:11 single.php:30
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#: functions.php:41
+msgid "Main Menu"
+msgstr "প্রধান মেনু"
+
+#: functions.php:42
+msgid "Bottom Menu"
+msgstr "নীচের মেনু"
+
+#: functions.php:126
+msgid "Blog page sidebar"
+msgstr "ব্লগ পৃষ্ঠা সাইডবার"
+
+#: functions.php:127
+msgid "You can add Blog page sidebar from here"
+msgstr "আপনি এখানে থেকে ব্লগ পৃষ্ঠা সাইডবার যোগ করতে পারেন"
